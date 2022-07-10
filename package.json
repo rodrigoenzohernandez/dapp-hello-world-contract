@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rodrigoenzohernandez/dapp-hello-world-contract/issues"
   },
-  "homepage": "https://github.com/rodrigoenzohernandez/dapp-hello-world-contract#readme"
+  "homepage": "https://github.com/rodrigoenzohernandez/dapp-hello-world-contract#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.0"
+  }
 }
